@@ -43,7 +43,7 @@ Install the dependencies:
 - Client Side:
 
 ```bash
-cd qr-product-code-generator/client
+cd qr-product-code/client
 npm install
 npm run dev
 ```
@@ -51,7 +51,7 @@ npm run dev
 - Server Side
 
 ```bash
-cd qr-product-code-generator/server
+cd qr-product-code/server
 npm install
 npm run dev
 ```
