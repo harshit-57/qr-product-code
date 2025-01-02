@@ -63,9 +63,9 @@ Open your web browser and navigate to http://localhost:3000 to access the applic
 To configure the application, create a .env file in the server directory of the project and add the following environment variables:
 
 ```bash
-NODE_ENV=development
-PORT=3001
-MONGODB_URI = "your-mongo-db-url
+NODE_ENV = development
+PORT = 3001
+MONGODB_URI = "your-mongo-db-url"
 FRONTEND_URL = "http://localhost:3000"
 JWT_SECRET = "your-jwt-secret"
 ```
